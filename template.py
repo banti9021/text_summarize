@@ -2,7 +2,7 @@ from pathlib import Path
 import os
 import logging
 
-project_name="text_summrize"
+project_name="text_summarize"
 
 #create project directory
 
